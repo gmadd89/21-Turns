@@ -4,7 +4,7 @@
 ![Display image of Alpe d'Huez Map](Alpe-D'Huez.jpg)
 (Image credit: Graham Watson)
 
-### Topographic Map of Alpe D’Huez in the French Alps
+### Topographic Map of Alpe d’Huez in the French Alps
 ![Display image of Alpe d'Huez Map](Final-Alpe.jpg)
 
 [Download a PDF of this Map](Final-Alpe.pdf)
