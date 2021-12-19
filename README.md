@@ -5,8 +5,8 @@
 (Image credit: Graham Watson)
 
 ### Topographic Map of Alpe D’Huez in the French Alps
-![Display image of Alpe d'Huez Map](construction.jpg)
+![Display image of Alpe d'Huez Map](AlpeD'Huez_Draft1.jpg)
 
-[Download a PDF of this Map](construction.jpg)
+[Download a PDF of this Map](AlpeD'Huez_Draft1.pdf)
 
 https://gmadd89.github.io/21-Turns/
